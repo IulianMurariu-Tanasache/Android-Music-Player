@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:id = "@+id/myItem"
+    android:background="@drawable/song"
+    android:gravity="center_vertical"
+    android:textSize="13sp"
+    android:paddingStart="16dp"
+    android:paddingLeft="16dp"
+    android:paddingEnd="16dp"
+    android:paddingRight="16dp"
+    android:textColor="#000000"
+
+    >
+
+</android.widget.Button>
